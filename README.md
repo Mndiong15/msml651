@@ -16,8 +16,8 @@ Before running the notebook, ensure you have the following installed:
 
 1. Clone this repository:
     ```bash
-    git clone <repository_url>
-    cd <repository_name>
+    git clone https://github.com/Mndiong15/msml651.git
+    cd msml651
     ```
 
 2. Install the required Python packages:
